@@ -1,7 +1,7 @@
 <img align = "top" alt = "Data science" width ="100%" height ="250"  src="https://www.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg" /> 
 <h1 align="center">Hi 👋, I'm Metin GENÇ</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=metin245&label=Profile%20views&color=0e75b6&style=flat" alt="metin245" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=metin245&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 - 📫 How to reach me **metingenc1112@gmail.com**
 
