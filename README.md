@@ -1,38 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@metin245 
-metin245
-/
-PROJECTS
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Update README.md
- main
-@metin245
-metin245 committed 6 hours ago 
-1 parent a14397f
-commit cd14876
-Showing 1 changed file with 22 additions and 1 deletion.
- 23  
-README.md
-Comment on this file
-@@ -1 +1,22 @@
-# PROJECTS
 <img align = "top" alt = "Data science" width ="100%" height ="250"  src="https://www.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg" /> 
 <h1 align="center">Hi 👋, I'm Metin GENÇ</h1>
 
@@ -55,32 +20,3 @@ Comment on this file
 
 <p>&nbsp;<img align="center" width ="47%" src="https://github-readme-stats.vercel.app/api?username=metin245&show_icons=true&theme=cobalt" alt="metin245" /></p>
 
-0 comments on commit cd14876
-@metin245
- 
-Add heading textAdd bold text, <Ctrl+b>Add italic text, <Ctrl+i>
-Add a quote, <Ctrl+Shift+.>Add code, <Ctrl+e>Add a link, <Ctrl+k>
-Add a bulleted list, <Ctrl+Shift+8>Add a numbered list, <Ctrl+Shift+7>Add a task list, <Ctrl+Shift+l>
-Directly mention a user or team
-Reference an issue, pull request, or discussion
-Add saved reply
-Leave a comment
-Dosya seçilmedi
-Attach files by dragging & dropping, selecting or pasting them.
-Styling with Markdown is supported
- You’re receiving notifications because you’re watching this repository.
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Update README.md · metin245/PROJECTS@cd14876
